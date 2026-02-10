@@ -65,9 +65,9 @@ o REMOVE a todo
 • Save todos to localStorage and load them back on app start.
 
 ## 🖼 UI Layout Sketch:
-
-✏️Add Todo Section
 ```
+✏️Add Todo Section
+
 [ Enter new todo here.... ] [Add Todo Button]
 
 📋Todo List Section
