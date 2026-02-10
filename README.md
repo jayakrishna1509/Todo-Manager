@@ -1,6 +1,6 @@
 # 📋DAY 4 TASK: "Todo Manager" App with Performance Optimization
 
-## 🎯Objective:
+## 🎯Objective
 Build an optimized **Todo Manager** App to practice:
 
 • useReducer
@@ -64,7 +64,7 @@ o REMOVE a todo
 
 • Save todos to localStorage and load them back on app start.
 
-## 🖼 UI Layout Sketch:
+## 🖼 UI Layout Sketch
 ```
 ✏️Add Todo Section
 
@@ -83,7 +83,7 @@ o REMOVE a todo
 [ Show All ] [ Show Completed ] [ Show Pending ]
 ```
 
-## 📊Todo Statistics:
+## 📊Todo Statistics
 
 Total Todos: 5
 
@@ -91,7 +91,7 @@ Completed: 2
 
 Pending: 3
 
-## 🧠Behaviour Flow:
+## 🧠Behaviour Flow
 
 • Input auto-focused on page load.
 
